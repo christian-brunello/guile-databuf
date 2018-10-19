@@ -1,0 +1,3 @@
+SUBDIRS = databuf
+
+ACLOCAL_AMFLAGS = -I m4
